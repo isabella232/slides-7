@@ -1,7 +1,7 @@
-Coral Ecosystem
-===============
+Hackathon
+=========
 
-Explaining Coral Ecosystem
+Explaining Coral Ecosystem and Slides for Hackathon
 
 
 ##### Install
@@ -16,6 +16,5 @@ npm Install
 grunt serve
 ```
 
-*** Credits ***
 
-Based on [Reveal.js](https://github.com/hakimel/reveal.js)
+Slides based on [Reveal.js](https://github.com/hakimel/reveal.js)
